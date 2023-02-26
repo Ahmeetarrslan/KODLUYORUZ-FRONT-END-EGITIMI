@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+ <style>
+
+ body 
+ {
+    background-color: sandybrown;
+ }
+
+ </style>
+
+</head>
+
+<body>
+    <title>ÇİKOLATA KÜP TARİFİ</title>
+    <H1><i>...ÇİKOLATA KÜPLERİ...</i></H1>
+    
+    <i>çikolatalı ve şam fıstıklı tadımlık lezzetler... yanlızca 4 malzeme ile hazırlanan çikolata küpleri renkli kagıtlarla veya kurdanla servıs edılır ...................................................................... </i>
+
+    <p>TARİF:XXX XXX</p>
+
+    
+
+    
+    
+
+    
+    <p style="text-align: center"><u>KAÇ KİŞİLİK:4   HAZIRLAMA SÜRESİ:10 DAKİKA  PİŞİRME SÜRESİ:10 DAKİKA</u></p>
+    <p style="text-align: center"><b>ÇİKOLATA KÜPLERİ İÇİN MALZEMELER</b></p>
+    <p style="text-align: center"><ul style="list-style-type: none;">
+        <li>350 gr Bitter çikolata</li>
+        <li>150 ml Krema</li>
+        <li>1 Çorba kaşıgı tereyegı</li></ul></p>
+    
+
+    <p1 style="text-align: center"><b>ÇİKOLATA KÜPLERİ NASIL YAPILIR</b></p1>
+    
+    <p1 style="background-color:red;"> </p1>
+    
+    <p style="text-align: center"><ul style="list-style-type: circle;">
+        <li>1. BİTTER ÇİKOLATAYI BENMERİ USULU ERITIN</li>
+        <li>2. ERIYEN CIKOLATANIN UZERINE TEREYAGI EKLEYIN</li>
+        <li>3. UZERINE FISTIK EKLEYIN</li>
+        <li>4. FISTIKLARI EZEREK UFALTIN</li>
+        <li>5. BUZDOLABINDA 2 SAAT BEKLETIN</li>
+                       </Ul>
+
+
+    <p style="text-align: right"> AFİYET OLSUN</p>
+
+    
+
+
+
+
+</body>
+</html>
