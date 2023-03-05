@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="first.css">
+</head>
+<title>MÜZİK DUKKANIM</title>
+
+<h1 style="text-align: center">MÜZİK DÜKKANIM</h1>
+ 
+
+
+
+<body>
+    <center>
+    <a href="firstcss.html">ANASAYFA</a>
+    <a href="HAKKIMIZDA.HTML">HAKKIMIZDA</a>
+    <a href="ÜRÜNLERİMİZ.html">ÜRÜNLERİMİZ</a> </center>
+    
+    <h2 style="text-align: center">ANA SAYFA</h2>
+
+<p>Müzik dükkamı siteme hoşgeldiniz <a href="firstcss.html">ürünlerimi</a> görmek için tıklayyınız</p>
+
+<h3 style="text-align: center">SİTEMİZDE BULUNAN MÜZİK ALETLERİ</h3>
+
+<center>    
+<li>GİTAR</li>
+<li> SAZ </li>
+<li>DAVUL</li>  </center>
+
+</body>
+</html>
