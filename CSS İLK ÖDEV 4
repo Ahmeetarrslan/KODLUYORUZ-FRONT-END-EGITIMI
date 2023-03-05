@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="first.css">
+</head>
+<title>MÜZİK DUKKANIM</title>
+
+<h1 style="text-align: center">MÜZİK DÜKKANIM</h1>
+ 
+
+
+
+<body>
+    <center>
+    <a href="firstcss.html">ANASAYFA</a>
+    <a href="HAKKIMIZDA.HTML">HAKKIMIZDA</a>
+    <a href="ÜRÜNLERİMİZ.html">ÜRÜNLERİMİZ</a> </center>
+
+ <p>YAMAHA C-80</p>   
+
+
+<img src="https://cdn.cimri.io/image/1000x1000/yamahacklasikgitar_14319157.jpg" style="width:345px;height:350px;" alt="GİTAR">
+
+<p>2.YAMAHA C-80</p>   
+
+
+<img src="https://cdn.cimri.io/image/1000x1000/yamahacklasikgitar_14319157.jpg" style="width:345px;height:350px;" alt="GİTAR">
+
+<p>3.YAMAHA C-80</p>   
+
+
+<img src="https://cdn.cimri.io/image/1000x1000/yamahacklasikgitar_14319157.jpg" style="width:345px;height:350px;" alt="GİTAR">
