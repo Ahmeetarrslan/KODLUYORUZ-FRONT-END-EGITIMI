@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="first.css">
+</head>
+<title>MÜZİK DUKKANIM</title>
+
+<h1 style="text-align: center">MÜZİK DÜKKANIM</h1>
+ 
+
+
+
+<body>
+    <center>
+    <a href="firstcss.html">ANASAYFA</a>
+    <a href="HAKKIMIZDA.HTML">HAKKIMIZDA</a>
+    <a href="ÜRÜNLERİMİZ.html">ÜRÜNLERİMİZ</a> </center>
+
+<h1>BİZ KİMİZ</h1>
+
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae commodi ullam, assumenda aperiam iste obcaecati, tempora eveniet quaerat, blanditiis minima voluptatibus nam explicabo autem deserunt possimus doloremque laboriosam quis voluptas.</p>
+
+<h2>VİZYONUMUZ</h2>
+
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero cumque aspernatur magni aliquam, facere qui accusantium corporis repellendus, facilis nobis, ducimus praesentium distinctio vitae quis unde. Quam, quae! Obcaecati, debitis?</p>
+</body>
